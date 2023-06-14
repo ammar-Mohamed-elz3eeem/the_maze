@@ -11,6 +11,13 @@ Ver2F_t dir;
 Ver2F_t plane;
 double time;
 
+/**
+ * main - entry point of the game
+ * @argc: number of command line arguments
+ * @argv: the command line arguemnts array
+ * Return: 0 on success, otherwise 1
+*/
+
 int main(int argc, char *argv[])
 {
 	int *maze;

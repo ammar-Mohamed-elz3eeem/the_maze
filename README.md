@@ -1,16 +1,19 @@
 # The Maze
 
 - [Introduction](#Introduction)
-- [Installition](#Installition)
+- [Installation](#Installation)
 - [Usage](#Usage)
 - [Author](#Author)
 - [License](#License)
 
 ### Introduction
+
+![The Maze](https://github.com/ammar-Mohamed-elz3eeem/The-Maze/blob/main/The-maze-ammar-massoud-banner.png)
+
 This project is a 3D Game called (The Maze) the project was built with C prgramming language with the help of SDL Library for the sake of GUI
 here is a full detailed article about the maze project and what challenges we had while developing the game [The Maze on LinkedIn](https://www.linkedin.com/pulse/first-3d-experience-maze-project-ammar-massoud)
 
-### Installition
+### Installation
 to install the game you need to clone this repo into your device
 
 ```

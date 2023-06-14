@@ -95,6 +95,11 @@ void input(int *maze)
 	}
 }
 
+/**
+ * quit - event loop for catching any event done by user
+ * Return: 1 on quiting the game, otherwise 0
+*/
+
 int quit(void)
 {
 	SDL_Event event;
